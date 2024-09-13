@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class SetSample {
 	
-	public static void main(String[]args) {
+	public static void main(String[] args) {
 		Set <String> set = new HashSet <String> ();
 		
 		set.add("value1");
